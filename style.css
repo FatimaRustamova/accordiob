@@ -1,0 +1,25 @@
+#bd{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+#btn{
+    width: 70%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+i{
+    font-size: 30px;
+}
+#div{
+    width: 70%;
+}
+
+.none{
+    display: none;
+}
